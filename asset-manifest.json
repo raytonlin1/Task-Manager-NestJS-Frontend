@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://raytonlin1.github.io/task-client/static/css/main.84a53bfd.chunk.css",
+    "main.js": "https://raytonlin1.github.io/task-client/static/js/main.6353cd3d.chunk.js",
+    "main.js.map": "https://raytonlin1.github.io/task-client/static/js/main.6353cd3d.chunk.js.map",
+    "runtime~main.js": "https://raytonlin1.github.io/task-client/static/js/runtime~main.2c48ed7f.js",
+    "runtime~main.js.map": "https://raytonlin1.github.io/task-client/static/js/runtime~main.2c48ed7f.js.map",
+    "static/js/2.46bdf46b.chunk.js": "https://raytonlin1.github.io/task-client/static/js/2.46bdf46b.chunk.js",
+    "static/js/2.46bdf46b.chunk.js.map": "https://raytonlin1.github.io/task-client/static/js/2.46bdf46b.chunk.js.map",
+    "index.html": "https://raytonlin1.github.io/task-client/index.html",
+    "precache-manifest.911ed601054365291a701a41dee10e1b.js": "https://raytonlin1.github.io/task-client/precache-manifest.911ed601054365291a701a41dee10e1b.js",
+    "service-worker.js": "https://raytonlin1.github.io/task-client/service-worker.js",
+    "static/css/main.84a53bfd.chunk.css.map": "https://raytonlin1.github.io/task-client/static/css/main.84a53bfd.chunk.css.map"
+  }
+}
